@@ -1,2 +1,4 @@
 hello
 A new change
+
+Developer B changes.
