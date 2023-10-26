@@ -2,5 +2,3 @@ hello
 A new change
 
 Developer B changes.
-
-Another change here
